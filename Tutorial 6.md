@@ -34,11 +34,12 @@ char gradeOf(int score) {
 ##### 5.
 ###### i)
 ```c
-void f1(double a, double x);
+void f1(int a, double x);
 ```
 
 ###### ii)
 ```
-a=1, x=2
-a=3.2, x=4.3
+a=1, x=2.000000
+a=3, x=4.300000
 ```
+
