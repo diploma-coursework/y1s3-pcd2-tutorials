@@ -43,3 +43,24 @@ a=1, x=2.000000
 a=3, x=4.300000
 ```
 
+##### 6.
+###### a)
+```c
+double calEpf(double salary) {
+return salary * 0.11;
+}
+```
+
+###### b)
+```c
+double salary, EPF;
+printf("Enter the salary >");
+scanf("%lf", &salary);
+EPF = calEpf(salary);
+printf("Total EPF charges: RM%.2f", EPF);
+```
+
+##### 7.
+```c
+
+```
